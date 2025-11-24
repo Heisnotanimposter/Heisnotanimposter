@@ -7,7 +7,7 @@
 
 ---
 
-## 📊 2025 Analysis
+## 📊 2025 Heisnotanimposter Github Repository Analysis
 
 Here is an annual report to explore my profile:
 ![spreadsheet-2025-11-23T15-07-08](https://github.com/user-attachments/assets/2512575b-28ee-4126-9374-0ce6d5696795)
