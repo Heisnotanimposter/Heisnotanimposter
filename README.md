@@ -1,15 +1,24 @@
-- 👋 Hi, I’m @Heisnotanimposter
-- 👀 I’m interested in ...Amogus
-- 🌱 I’m currently learning ... Programming
-- 💞️ I’m looking to collaborate on ... Company
-- 📫 How to reach me ... Github
+# 👋 Hi, I’m @Heisnotanimposter  
 
+- 👀 I’m interested in **Amogus**  
+- 🌱 I’m currently learning **Programming**  
+- 💞️ I’m looking to collaborate on **Company**  
+- 📫 How to reach me: **Github**
 
-[Activity Statistics.html](https://github.com/user-attachments/files/23700035/Activity.Statistics.html)[Pinned Repositories.html](https://github.com/user-attachments/files/23700036/Pinned.Repositories.html)[Technology Stack.html](https://github.com/user-attachments/files/23700040/Technology.Stack.html)
-[Repository Analysis.html](https://github.com/user-attachments/files/23700039/Repository.Analysis.html)
-[Project Categories.html](https://github.com/user-attachments/files/23700038/Project.Categories.html)
-[Profile Overview.html](https://github.com/user-attachments/files/23700037/Profile.Overview.html)
+---
 
+## 📊 My Work
+
+Here are some useful links to explore my profile:
+
+- [Activity Statistics](https://github.com/user-attachments/files/23700035/Activity.Statistics.html)  
+- [Pinned Repositories](https://github.com/user-attachments/files/23700036/Pinned.Repositories.html)  
+- [Technology Stack](https://github.com/user-attachments/files/23700040/Technology.Stack.html)  
+- [Repository Analysis](https://github.com/user-attachments/files/23700039/Repository.Analysis.html)  
+- [Project Categories](https://github.com/user-attachments/files/23700038/Project.Categories.html)  
+- [Profile Overview](https://github.com/user-attachments/files/23700037/Profile.Overview.html)
+
+---
 
 <!---
 Heisnotanimposter/Heisnotanimposter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
