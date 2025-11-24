@@ -7,16 +7,11 @@
 
 ---
 
-## 📊 My Work
+## 📊 2025 Analysis
 
-Here are some useful links to explore my profile:
+Here is an annual report to explore my profile:
 
-- [Activity Statistics](https://github.com/user-attachments/files/23700035/Activity.Statistics.html)  
-- [Pinned Repositories](https://github.com/user-attachments/files/23700036/Pinned.Repositories.html)  
-- [Technology Stack](https://github.com/user-attachments/files/23700040/Technology.Stack.html)  
-- [Repository Analysis](https://github.com/user-attachments/files/23700039/Repository.Analysis.html)  
-- [Project Categories](https://github.com/user-attachments/files/23700038/Project.Categories.html)  
-- [Profile Overview](https://github.com/user-attachments/files/23700037/Profile.Overview.html)
+<img width="1191" height="842" alt="spreadsheet-2025-11-23T15-07-08" src="https://github.com/user-attachments/assets/52be7251-e3e2-4465-b44f-bbdc8aceed14" />
 
 ---
 
